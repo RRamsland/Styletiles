@@ -265,7 +265,7 @@ p.typography-sample em {
 a.typography-sample {
   font: bold 1em "Open Sans", sans-serif;
   color: #05abeb;
-  text-decoration: none;
+  text-decoration: underline;
 }
 a.typography-sample:hover {
   color: #0088bd;
